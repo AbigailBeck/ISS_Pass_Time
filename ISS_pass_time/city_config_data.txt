@@ -1,0 +1,4 @@
+{"City":"Haifa", "Latitude":"32.7940", "Longitude":"34.9896"}
+{"City":"TelAviv", "Latitude":"32.109333", "Longitude":"34.855499"}
+{"City":"BeerSheva", "Latitude":"31.2530", "Longitude":"34.7915"}
+{"City":"Eilat", "Latitude":"29.5577", "Longitude":"34.9519"}
